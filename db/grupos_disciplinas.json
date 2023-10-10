@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "descricao": "ENGENHARIA DE DADOS"
+  },
+  {
+    "id": 2,
+    "descricao": "PROGRAMAÇÃO DE SOFTWARE"
+  },
+  {
+    "id": 3,
+    "descricao": "GESTÃO E INOVAÇÃO"
+  },
+  {
+    "id": 4,
+    "descricao": "HUMANIDADES"
+  },
+  {
+    "id": 5,
+    "descricao": "INFRAESTRUTURA DE TI"
+  },
+  {
+    "id": 6,
+    "descricao": "SEGURANÇA DA INFORMAÇÃO"
+  },
+  {
+    "id": 7,
+    "descricao": "INTELIGÊNCIA ARTIFICIAL"
+  },
+  {
+    "id": 8,
+    "descricao": "MATEMÁTICA E ESTATÍSTICA"
+  },
+  {
+    "id": 9,
+    "descricao": "SAÚDE"
+  },
+  {
+    "id": 10,
+    "descricao": "VISUALIZAÇÃO E ANALYTICS"
+  },
+  {
+    "id": 11,
+    "descricao": "ARQUITETURA DE SOFTWARE"
+  },
+  {
+    "id": 12,
+    "descricao": "UX DESIGN"
+  },
+  {
+    "id": 13,
+    "descricao": "ENGENHARIA DE SOFTWARE"
+  },
+  {
+    "id": 14,
+    "descricao": "GEOPROCESSAMENTO"
+  }
+]

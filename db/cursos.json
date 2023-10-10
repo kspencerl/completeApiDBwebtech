@@ -1,0 +1,1307 @@
+[
+  {
+    "id": 1,
+    "curso": "Analytics e Business Intelligence",
+    "sigla": "ABI",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Analytics-e-Business-Intelligence_Online.aspx?pageID=3812&moda=5&modaTipo=2&polo=40&curso=134&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/analytics-e-business-intelligence.aspx?pageID=584&moda=1&polo=1&curso=3020&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      88,
+      111,
+      137,
+      57,
+      237,
+      206,
+      149,
+      122,
+      160,
+      146,
+      152,
+      192,
+      62,
+      156,
+      200,
+      138
+    ],
+    "nucleo": "Data & Analytics",
+    "id_nucleo": 1,
+    "tematicas": [
+      "BD",
+      "DA",
+      "ND"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 2,
+    "curso": "Arquitetura de Dados",
+    "sigla": "AD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Arquitetura-de-Dados.aspx?pageID=4467&moda=5&modaTipo=2&polo=40&curso=151&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      137,
+      62,
+      29,
+      92,
+      133,
+      162,
+      34,
+      183,
+      39,
+      18,
+      42,
+      217,
+      10,
+      57,
+      168,
+      138
+    ],
+    "id_nucleo": 1,
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "AD",
+      "BD",
+      "MP"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 3,
+    "curso": "Ciência de Dados Aplicada à Saúde",
+    "sigla": "CDAS",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Ci%C3%AAncia-de-Dados-Aplicada-%C3%A0-Sa%C3%BAde.aspx?pageID=4300&moda=5&modaTipo=2&polo=40&curso=1382&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/ciencia-de-dados-aplicada-a-saude.aspx?pageID=674&moda=1&polo=1&curso=3100&situ=1",
+        "ativo": false
+      }
+    ],
+    "id_nucleo": 1,
+    "disciplinas": [
+      38,
+      62,
+      57,
+      88,
+      47,
+      203,
+      102,
+      132,
+      182,
+      121,
+      156,
+      208,
+      7,
+      188,
+      92,
+      138
+    ],
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "SA",
+      "DA",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 4,
+    "curso": "Ciência de Dados e Big Data",
+    "sigla": "CDBD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "PRESENCIAL (BH)",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Ciencia-de-Dados-e-Big-Data-Pra%C3%A7a%20da%20Liberdade_5.aspx?pageID=2030&moda=5&modaTipo=1&polo=7&curso=138&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Ci%C3%AAncia-de-Dados-e-Big-Data-_Online.aspx?pageID=3816&moda=5&modaTipo=2&polo=40&curso=138&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Ci%C3%AAncia-de-Dados-e-Big-Data.aspx?pageID=505&moda=1&polo=1&curso=2944&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      62,
+      88,
+      57,
+      165,
+      122,
+      203,
+      188,
+      156,
+      208,
+      107,
+      39,
+      18,
+      164,
+      147,
+      92,
+      138
+    ],
+    "id_nucleo": 1,
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "DA",
+      "ED",
+      "ND"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 5,
+    "curso": "Engenharia de Dados",
+    "sigla": "ED",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Engenharia-de-Dados.aspx?pageID=3903&moda=5&modaTipo=2&polo=40&curso=607&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/engenharia-de-dados.aspx?PageID=678&moda=1&polo=1&curso=3116&situ=1",
+        "ativo": true
+      }
+    ],
+    "id_nucleo": 1,
+    "disciplinas": [
+      137,
+      48,
+      58,
+      57,
+      38,
+      204,
+      37,
+      172,
+      217,
+      34,
+      143,
+      183,
+      187,
+      42,
+      18,
+      138
+    ],
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "BD",
+      "CR",
+      "ED"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 6,
+    "curso": "Estatística para Ciência de Dados",
+    "sigla": "ECD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Estat%C3%ADstica-para-Ci%C3%AAncia-de-Dados.aspx?pageID=4473&moda=5&modaTipo=2&polo=40&curso=1540&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      137,
+      38,
+      57,
+      203,
+      153,
+      12,
+      186,
+      82,
+      141,
+      89,
+      210,
+      211,
+      13,
+      220,
+      167,
+      138
+    ],
+    "id_nucleo": 1,
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "DA",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 7,
+    "curso": "Gestão e Análise Estratégica de Dados",
+    "sigla": "GAED",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Gest%C3%A3o-e-An%C3%A1lise-Estrat%C3%A9gica-de-Dados_Online.aspx?pageID=3821&moda=5&modaTipo=2&polo=40&curso=707&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/gestao-e-analise-estrategica-de-dados.aspx?pageID=586&moda=1&polo=1&curso=3022&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      88,
+      231,
+      111,
+      237,
+      206,
+      149,
+      122,
+      38,
+      160,
+      182,
+      137,
+      62,
+      148,
+      11,
+      200,
+      138
+    ],
+    "id_nucleo": 1,
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "DA",
+      "ND",
+      "PG"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 8,
+    "curso": "Inteligência Artificial e Aprendizado de Máquina",
+    "sigla": "IAAM",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Intelig%C3%AAncia-Artificial-e-Aprendizado-de-M%C3%A1quina_Online.aspx?PageID=3823&moda=5&modaTipo=2&polo=40&curso=1097&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Inteligencia-Artificial-e-Aprendizado-de-Maquina.aspx?pageID=542&moda=1&polo=1&curso=2975&situ=1",
+        "ativo": true
+      }
+    ],
+    "id_nucleo": 1,
+    "disciplinas": [
+      62,
+      88,
+      57,
+      203,
+      182,
+      165,
+      156,
+      208,
+      107,
+      7,
+      209,
+      17,
+      188,
+      224,
+      96,
+      138
+    ],
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "DS",
+      "DA",
+      "ED"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 9,
+    "curso": "Aplicações e Tecnologias de Blockchain",
+    "sigla": "ATB",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Aplica%C3%A7%C3%B5es-e-Tecnologias-de-Blockchain_Online.aspx?pageID=3813&moda=5&modaTipo=2&polo=40&curso=822&situ=1",
+        "ativo": false
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/aplicacoes-e-tecnologias-de-blockchain.aspx?pageID=670&moda=1&polo=1&curso=3096&situ=1",
+        "ativo": false
+      }
+    ],
+    "id_nucleo": 2,
+    "disciplinas": [
+      48,
+      58,
+      23,
+      77,
+      22,
+      83,
+      21,
+      54,
+      226,
+      176,
+      177,
+      36,
+      63,
+      64,
+      198,
+      138
+    ],
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AD",
+      "DS",
+      "ND"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 10,
+    "curso": "Arquitetura de Software Distribuído",
+    "sigla": "ASD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Arquitetura-de-Software-Distribu%C3%ADdo-_Online.aspx?pageID=3814&moda=5&modaTipo=2&polo=40&curso=128&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Arquitetura-de-Software-Distribuido.aspx?pageID=409&moda=1&polo=1&curso=2096&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      58,
+      59,
+      168,
+      23,
+      22,
+      15,
+      29,
+      14,
+      178,
+      27,
+      26,
+      16,
+      31,
+      150,
+      84,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AD",
+      "DS",
+      "ND"
+    ],
+    "exp_ti": "Intemediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 11,
+    "curso": "Arquitetura de Soluções",
+    "sigla": "AS",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Arquitetura%20de%20Solucoes_Pos%20Online_Especializacao%20e%20Master.aspx?pageID=4065&moda=5&modaTipo=2&polo=40&curso=1140&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Arquitetura-de-Solu%C3%A7%C3%B5es.aspx?pageID=609&moda=1&polo=1&curso=3046&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      231,
+      59,
+      58,
+      23,
+      22,
+      29,
+      15,
+      101,
+      136,
+      19,
+      42,
+      84,
+      30,
+      124,
+      125,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "CR",
+      "ND",
+      "PG"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 12,
+    "curso": "Automação de Processos RPA e Hiperautomação",
+    "sigla": "APRH",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Automa%C3%A7%C3%A3o-de-Processos-RPA-e-hiperautoma%C3%A7%C3%A3o.aspx?pageID=4468&moda=5&modaTipo=2&polo=40&curso=1535&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      38,
+      15,
+      58,
+      85,
+      8,
+      110,
+      128,
+      71,
+      72,
+      73,
+      182,
+      156,
+      188,
+      7,
+      168,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AU",
+      "MP",
+      "ND"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 13,
+    "curso": "Desenvolvimento Mobile",
+    "sigla": "DM",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Desenvolvimento-Mobile_Online.aspx?pageID=3791&moda=5&modaTipo=2&polo=40&curso=1053&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Desenvolvimento-Mobile.aspx?pageID=618&moda=1&polo=1&curso=3047&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      15,
+      29,
+      58,
+      159,
+      77,
+      22,
+      178,
+      67,
+      66,
+      70,
+      69,
+      76,
+      75,
+      74,
+      68,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AD",
+      "DS",
+      "UD"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 14,
+    "curso": "Desenvolvimento Web Front End",
+    "sigla": "DWFE",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Desenvolvimento%20Web%20Front%20End_Pos%20Online_Especializacao%20e%20Master.aspx?PageID=4076&moda=5&modaTipo=2&polo=40&curso=1146&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      15,
+      111,
+      58,
+      48,
+      77,
+      173,
+      193,
+      106,
+      23,
+      227,
+      105,
+      31,
+      205,
+      94,
+      201,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AD",
+      "DS",
+      "UD"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 15,
+    "curso": "Desenvolvimento Web Full Stack",
+    "sigla": "DWFS",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Desenvolvimento-Web-Full-Stack_Online.aspx?pageID=4160&moda=5&modaTipo=2&polo=40&curso=691&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Desenvolvimento-Web-Full-Stack.aspx?pageID=534&moda=1&polo=1&curso=2967&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      15,
+      111,
+      58,
+      22,
+      77,
+      173,
+      193,
+      106,
+      212,
+      39,
+      179,
+      222,
+      205,
+      94,
+      201,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AD",
+      "DS",
+      "BD"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 16,
+    "curso": "DevOps & Continuous Software Engineering",
+    "sigla": "DCSE",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/DevOps--Continuous-Software-Engineering.aspx?PageID=4469&moda=5&modaTipo=2&polo=40&curso=1536&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      111,
+      57,
+      29,
+      55,
+      225,
+      168,
+      112,
+      53,
+      229,
+      51,
+      84,
+      60,
+      236,
+      52,
+      142,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AU",
+      "DS",
+      "CR"
+    ],
+    "exp_ti": "Avançada",
+    "exp_ti_val": 3
+  },
+  {
+    "id": 17,
+    "curso": "Engenharia de Software",
+    "sigla": "ES",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Engenharia-de-Software_Online.aspx?pageID=381&moda=5&modaTipo=2&polo=40&curso=174&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Engenharia-de-Software.aspx?pageID=423&moda=1&polo=1&curso=767&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      111,
+      23,
+      58,
+      87,
+      77,
+      86,
+      99,
+      22,
+      15,
+      31,
+      180,
+      158,
+      229,
+      84,
+      196,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "DS",
+      "MP",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 18,
+    "curso": "Site Reliability Engineering (SRE)",
+    "sigla": "SRE",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Site-Reliability-Engineering-(SRE).aspx?pageID=4478&moda=5&modaTipo=2&polo=40&curso=1545&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      29,
+      168,
+      60,
+      184,
+      134,
+      113,
+      9,
+      90,
+      112,
+      53,
+      229,
+      51,
+      52,
+      142,
+      221,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "AU",
+      "CR",
+      "SI"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 19,
+    "curso": "Cibersegurança e Governança de Dados",
+    "sigla": "CGD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Ciberseguran%C3%A7a-e-Governan%C3%A7a-de-Dados.aspx?pageID=4357&moda=5&modaTipo=2&polo=40&curso=1443&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/ciberseguranca-e-governanca-de-dados.aspx?pageID=673&moda=1&polo=1&curso=3099&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      137,
+      59,
+      168,
+      103,
+      50,
+      120,
+      215,
+      216,
+      54,
+      185,
+      155,
+      95,
+      129,
+      213,
+      218,
+      138
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "CR",
+      "ND",
+      "SI"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 20,
+    "curso": "Computação em Nuvem",
+    "sigla": "CN",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Computa%C3%A7%C3%A3o-em-Nuvem_Online.aspx?pageID=3805&moda=5&modaTipo=2&polo=40&curso=141&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      231,
+      59,
+      131,
+      111,
+      48,
+      29,
+      117,
+      130,
+      1,
+      2,
+      145,
+      169,
+      175,
+      49,
+      154,
+      138
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "CR",
+      "ND",
+      "SI"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 21,
+    "curso": "Engenharia de Redes",
+    "sigla": "ER",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Engenharia-de-Redes-Online.aspx?PageID=3809&moda=5&modaTipo=2&polo=40&curso=334&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      48,
+      29,
+      131,
+      45,
+      46,
+      44,
+      170,
+      41,
+      116,
+      104,
+      235,
+      138
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "CR",
+      "SI"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 22,
+    "curso": "Gestão de Infraestrutura de TI",
+    "sigla": "GITI",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Gest%C3%A3o-de-Infraestrutura-de-TI_Online.aspx?pageID=3807&moda=5&modaTipo=2&polo=40&curso=11&situ=1",
+        "ativo": true
+      },
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/gestao-de-infraestrutura-de-ti.aspx?pageID=546&moda=1&polo=1&curso=2979&situ=1",
+        "ativo": false
+      }
+    ],
+    "disciplinas": [
+      131,
+      56,
+      231,
+      199,
+      4,
+      115,
+      118,
+      119,
+      135,
+      171,
+      24,
+      5,
+      215,
+      235,
+      114,
+      138
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "CR",
+      "ND",
+      "PG"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 23,
+    "curso": "Internet das Coisas",
+    "sigla": "IC",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Internet-das-Coisas.aspx?pageID=3954&moda=5&modaTipo=2&polo=40&curso=340&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      48,
+      59,
+      111,
+      131,
+      150,
+      35,
+      33,
+      219,
+      32,
+      214,
+      25,
+      65,
+      191,
+      197,
+      207
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "AU",
+      "CR",
+      "DS"
+    ],
+    "exp_ti": "Intermediária",
+    "exp_ti_val": 2
+  },
+  {
+    "id": 24,
+    "curso": "Cidades Inteligentes - Gestão e Tecnologias",
+    "sigla": "CIGT",
+    "ativo": false,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Cidades-Inteligentes-gest%C3%A3o-e-tecnologias-Online.aspx?PageID=4453&moda=5&modaTipo=2&polo=40&curso=1517&situ=1",
+        "ativo": false
+      }
+    ],
+    "disciplinas": [
+      137,
+      62,
+      29,
+      109,
+      174,
+      100,
+      123,
+      166,
+      140,
+      228,
+      98,
+      223,
+      161,
+      129,
+      6,
+      138
+    ],
+    "id_nucleo": 4,
+    "nucleo": "Soluções e Negócios Digitais",
+    "tematicas": [
+      "CR",
+      "ND",
+      "PG"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 25,
+    "curso": "Gestão e Desenvolvimento de Produtos Digitais",
+    "sigla": "GDPD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Gest%C3%A3o-e-Desenvolvimento-de-Produtos-Digitais.aspx?pageID=4358&moda=5&modaTipo=2&polo=40&curso=1444&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      231,
+      111,
+      62,
+      108,
+      61,
+      190,
+      79,
+      127,
+      157,
+      125,
+      28,
+      81,
+      126,
+      94,
+      194,
+      138
+    ],
+    "id_nucleo": 4,
+    "nucleo": "Soluções e Negócios Digitais",
+    "tematicas": [
+      "ND",
+      "PG",
+      "UD"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 26,
+    "curso": "UX e Design de Produtos Digitais",
+    "sigla": "UDPD",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/UX%20e%20Design%20de%20Produtos%20Digitais-.aspx?PageID=3868&moda=5&modaTipo=2&polo=40&curso=327&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      231,
+      111,
+      62,
+      80,
+      234,
+      93,
+      20,
+      78,
+      43,
+      232,
+      91,
+      233,
+      40,
+      144,
+      195,
+      138
+    ],
+    "id_nucleo": 4,
+    "nucleo": "Soluções e Negócios Digitais",
+    "tematicas": [
+      "ND",
+      "UD"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 27,
+    "curso": "Geoprocessamento e Análise Espacial",
+    "sigla": "GAE",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "ONLINE",
+        "link": "https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Geoprocessamento-e-An%C3%A1lise-Espacial.aspx?pageID=3934&moda=5&modaTipo=2&polo=40&curso=296&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      138
+    ],
+    "id_nucleo": 1,
+    "nucleo": "Data & Analytics",
+    "tematicas": [
+      "BD",
+      "AD",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 28,
+    "curso": "Geoprocessamento",
+    "sigla": "GEO",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/geoprocessamento.aspx?pageID=708&moda=1&polo=1&curso=2972&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      241,
+      242,
+      247,
+      248,
+      249,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      138
+    ],
+    "id_nucleo": 4,
+    "nucleo": "Soluções e Negócios Digitais",
+    "tematicas": [
+      "BD",
+      "AD",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 29,
+    "curso": "Geotecnologias e Desenvolvimento de SIG",
+    "sigla": "GDS",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/geoprocessamento.aspx?pageID=708&moda=1&polo=1&curso=2972&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      15,
+      22,
+      111,
+      231,
+      241,
+      242,
+      247,
+      260,
+      253,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      138
+    ],
+    "id_nucleo": 2,
+    "nucleo": "Desenvolvimento de Software",
+    "tematicas": [
+      "BD",
+      "AD",
+      "ND"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 30,
+    "curso": "Governança de Tecnologia da Informação",
+    "sigla": "GTI",
+    "ativo": true,
+    "modalidades": [
+      {
+        "tipo": "EAD",
+        "link": "https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Governanca-de-Tecnologia-da-Informacao.aspx?pageID=430&moda=1&polo=1&curso=2164&situ=1",
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      131,
+      19,
+      124,
+      111,
+      135,
+      231,
+      126,
+      137,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      138
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      "PG",
+      "ND",
+      "CR"
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  },
+  {
+    "id": 31,
+    "curso": "BOI SUBSTITUTAOOO",
+    "sigla": "GTI",
+    "ativo": true,
+    "modalidades": [
+      {
+        "ativo": true
+      }
+    ],
+    "disciplinas": [
+      [
+        131,
+        19,
+        124,
+        111,
+        135,
+        231,
+        126,
+        137,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        138
+      ]
+    ],
+    "id_nucleo": 3,
+    "nucleo": "Infraestrutura de TI",
+    "tematicas": [
+      [
+        "PG",
+        "ND",
+        "CR"
+      ]
+    ],
+    "exp_ti": "Baixa",
+    "exp_ti_val": 1
+  }
+]

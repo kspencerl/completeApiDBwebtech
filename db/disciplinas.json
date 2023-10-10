@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 1,
+    "disciplina": "Administração de Camada de Serviços",
+    "grupo_id": 5
+  },
+  {
+    "id": 2,
+    "disciplina": "Administração de Plataforma como Serviço – PaaS",
+    "grupo_id": 5
+  },
+  {
+    "id": 3,
+    "disciplina": "Algoritmos e Programação Genética",
+    "grupo_id": 7
+  },
+  {
+    "id": 4,
+    "disciplina": "Ambientes de trabalho digitais e teletrabalho",
+    "grupo_id": 3
+  },
+  {
+    "id": 5,
+    "disciplina": "Ambientes Híbridos",
+    "grupo_id": 5
+  },
+  {
+    "id": 6,
+    "disciplina": "Análise de Dados Públicos",
+    "grupo_id": 10
+  },
+  {
+    "id": 7,
+    "disciplina": "Análise de Imagem e Visão Computacional",
+    "grupo_id": 7
+  },
+  {
+    "id": 8,
+    "disciplina": "Análise e Desenho de Processos",
+    "grupo_id": 13
+  },
+  {
+    "id": 9,
+    "disciplina": "Análise e Gestão de Riscos",
+    "grupo_id": 3
+  },
+  {
+    "id": 10,
+    "disciplina": "Análise e Gestão de Riscos de Segurança da Informação",
+    "grupo_id": 6
+  },
+  {
+    "id": 11,
+    "disciplina": "Análise Estratégica de Dados",
+    "grupo_id": 10
+  },
+  {
+    "id": 12,
+    "disciplina": "Análise exploratória de dados (EDA)",
+    "grupo_id": 8
+  },
+  {
+    "id": 13,
+    "disciplina": "Análise Multivariada",
+    "grupo_id": 8
+  },
+  {
+    "id": 14,
+    "disciplina": "Análise, Projeto e Avaliação de Arquitetura de Software",
+    "grupo_id": 13
+  },
+  {
+    "id": 15,
+    "disciplina": "APIs e Web Services",
+    "grupo_id": 2
+  },
+  {
+    "id": 16,
+    "disciplina": "Aplicações Descentralizadas e Blockchain",
+    "grupo_id": 11
+  },
+  {
+    "id": 17,
+    "disciplina": "Aprendizado por Reforço",
+    "grupo_id": 7
+  },
+  {
+    "id": 18,
+    "disciplina": "Armazenamento e Processamento Massivo e Distribuído de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 19,
+    "disciplina": "Arquitetura Corporativa",
+    "grupo_id": 3
+  },
+  {
+    "id": 20,
+    "disciplina": "Arquitetura da Informação",
+    "grupo_id": 12
+  },
+  {
+    "id": 21,
+    "disciplina": "Arquitetura de Aplicações Blockchain",
+    "grupo_id": 11
+  },
+  {
+    "id": 22,
+    "disciplina": "Arquitetura de Back End",
+    "grupo_id": 11
+  },
+  {
+    "id": 23,
+    "disciplina": "Arquitetura de Front End",
+    "grupo_id": 11
+  },
+  {
+    "id": 24,
+    "disciplina": "Arquitetura de Infraestrutura de TI",
+    "grupo_id": 5
+  },
+  {
+    "id": 25,
+    "disciplina": "Arquitetura de Serviços para IoT",
+    "grupo_id": 11
+  },
+  {
+    "id": 26,
+    "disciplina": "Arquitetura de Software com Framework Java",
+    "grupo_id": 11
+  },
+  {
+    "id": 27,
+    "disciplina": "Arquitetura de Software na Plataforma. NET",
+    "grupo_id": 11
+  },
+  {
+    "id": 28,
+    "disciplina": "Arquitetura de Soluções Digitais",
+    "grupo_id": 11
+  },
+  {
+    "id": 29,
+    "disciplina": "Arquitetura de Soluções em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 30,
+    "disciplina": "Arquitetura para Aplicações Inteligentes",
+    "grupo_id": 11
+  },
+  {
+    "id": 31,
+    "disciplina": "Arquitetura para Aplicações Móveis",
+    "grupo_id": 11
+  },
+  {
+    "id": 32,
+    "disciplina": "Arquiteturas de Microcontroladores (MPUs e MCUs)",
+    "grupo_id": 5
+  },
+  {
+    "id": 33,
+    "disciplina": "Arquiteturas e Protocolos de Redes para IoT",
+    "grupo_id": 11
+  },
+  {
+    "id": 34,
+    "disciplina": "Arquiteturas e Serviços de Data Lakes e Data Warehousing",
+    "grupo_id": 1
+  },
+  {
+    "id": 35,
+    "disciplina": "Arquiteturas para Aplicações Móveis",
+    "grupo_id": 11
+  },
+  {
+    "id": 36,
+    "disciplina": "Aspectos Jurídicos e Regulamentação",
+    "grupo_id": 3
+  },
+  {
+    "id": 37,
+    "disciplina": "Bancos de Dados noSQL",
+    "grupo_id": 1
+  },
+  {
+    "id": 38,
+    "disciplina": "Bancos de Dados Relacionais e Linguagem SQL",
+    "grupo_id": 1
+  },
+  {
+    "id": 39,
+    "disciplina": "Bancos de Dados Relacionais e Não Relacionais",
+    "grupo_id": 1
+  },
+  {
+    "id": 40,
+    "disciplina": "Branding, Marketing e Customer Success",
+    "grupo_id": 3
+  },
+  {
+    "id": 41,
+    "disciplina": "Cabeamento Estruturado",
+    "grupo_id": 5
+  },
+  {
+    "id": 42,
+    "disciplina": "Camadas e Serviços de Consumo de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 43,
+    "disciplina": "Carreira e Liderança",
+    "grupo_id": 3
+  },
+  {
+    "id": 44,
+    "disciplina": "CCNA: Enterprise Networking, Security and Automation",
+    "grupo_id": 5
+  },
+  {
+    "id": 45,
+    "disciplina": "CCNA: Introduction to Networks",
+    "grupo_id": 5
+  },
+  {
+    "id": 46,
+    "disciplina": "CCNA: Switching, Routing, and Wireless Essentials",
+    "grupo_id": 5
+  },
+  {
+    "id": 47,
+    "disciplina": "Ciência de Dados em Epidemiologia",
+    "grupo_id": 9
+  },
+  {
+    "id": 48,
+    "disciplina": "Computação em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 49,
+    "disciplina": "Computação em Nuvem Avançada",
+    "grupo_id": 5
+  },
+  {
+    "id": 50,
+    "disciplina": "Computação Forense e Perícia Digital",
+    "grupo_id": 5
+  },
+  {
+    "id": 51,
+    "disciplina": "Configuration Management",
+    "grupo_id": 13
+  },
+  {
+    "id": 52,
+    "disciplina": "Conteinerização e Orquestração",
+    "grupo_id": 5
+  },
+  {
+    "id": 53,
+    "disciplina": "Continuous Integration & Deployment (CI/CD)",
+    "grupo_id": 13
+  },
+  {
+    "id": 54,
+    "disciplina": "Criptografia e Segurança de Aplicações",
+    "grupo_id": 6
+  },
+  {
+    "id": 55,
+    "disciplina": "Cultura DevOps e Transformação Digital",
+    "grupo_id": 3
+  },
+  {
+    "id": 56,
+    "disciplina": "Cultura e Prática DevSecOps",
+    "grupo_id": 5
+  },
+  {
+    "id": 57,
+    "disciplina": "Cultura e Práticas DataOps e MLOps",
+    "grupo_id": 5
+  },
+  {
+    "id": 58,
+    "disciplina": "Cultura e Práticas DevOps",
+    "grupo_id": 5
+  },
+  {
+    "id": 59,
+    "disciplina": "Cultura e Práticas DevSecOps",
+    "grupo_id": 5
+  },
+  {
+    "id": 60,
+    "disciplina": "Cultura e Práticas DevSecOps",
+    "grupo_id": 5
+  },
+  {
+    "id": 61,
+    "disciplina": "Customer Experience e UX Metrics",
+    "grupo_id": 12
+  },
+  {
+    "id": 62,
+    "disciplina": "Data Discovery e Analytics",
+    "grupo_id": 10
+  },
+  {
+    "id": 63,
+    "disciplina": "Desenvolvimento de Aplicações Descentralizadas (dApps) em Ethereum",
+    "grupo_id": 2
+  },
+  {
+    "id": 64,
+    "disciplina": "Desenvolvimento de Aplicações Descentralizadas (dApps) em Hyperledger",
+    "grupo_id": 2
+  },
+  {
+    "id": 65,
+    "disciplina": "Desenvolvimento de Aplicações Microcontroladas",
+    "grupo_id": 2
+  },
+  {
+    "id": 66,
+    "disciplina": "Desenvolvimento de Aplicações para Android – Avançado",
+    "grupo_id": 2
+  },
+  {
+    "id": 67,
+    "disciplina": "Desenvolvimento de Aplicações para Android - Fundamentos",
+    "grupo_id": 2
+  },
+  {
+    "id": 68,
+    "disciplina": "Desenvolvimento de Aplicações para Internet das Coisas",
+    "grupo_id": 2
+  },
+  {
+    "id": 69,
+    "disciplina": "Desenvolvimento de Aplicações para IOS – Avançado",
+    "grupo_id": 2
+  },
+  {
+    "id": 70,
+    "disciplina": "Desenvolvimento de Aplicações para IOS – Fundamentos",
+    "grupo_id": 2
+  },
+  {
+    "id": 71,
+    "disciplina": "Desenvolvimento e Projeto de Solução RPA I",
+    "grupo_id": 2
+  },
+  {
+    "id": 72,
+    "disciplina": "Desenvolvimento e Projeto de Solução RPA II",
+    "grupo_id": 2
+  },
+  {
+    "id": 73,
+    "disciplina": "Desenvolvimento e Projeto de Solução RPA III",
+    "grupo_id": 2
+  },
+  {
+    "id": 74,
+    "disciplina": "Desenvolvimento Híbrido e Cross-Platform - Flutter",
+    "grupo_id": 2
+  },
+  {
+    "id": 75,
+    "disciplina": "Desenvolvimento Híbrido e Cross-Platform - React Native",
+    "grupo_id": 2
+  },
+  {
+    "id": 76,
+    "disciplina": "Desenvolvimento Híbrido E Cross-Platform - Web Apps Html5 e PWA",
+    "grupo_id": 2
+  },
+  {
+    "id": 77,
+    "disciplina": "Design de Experiência do Usuário",
+    "grupo_id": 12
+  },
+  {
+    "id": 78,
+    "disciplina": "Design de Interação e de Interface",
+    "grupo_id": 12
+  },
+  {
+    "id": 79,
+    "disciplina": "Design Ops e Product Delivery",
+    "grupo_id": 12
+  },
+  {
+    "id": 80,
+    "disciplina": "Design Thinking e Fundamentos de UX",
+    "grupo_id": 12
+  },
+  {
+    "id": 81,
+    "disciplina": "Digital Product Analytics",
+    "grupo_id": 10
+  },
+  {
+    "id": 82,
+    "disciplina": "Distribuição de Dados e Amostragem",
+    "grupo_id": 8
+  },
+  {
+    "id": 83,
+    "disciplina": "Economia Digital",
+    "grupo_id": 3
+  },
+  {
+    "id": 84,
+    "disciplina": "Engenharia de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 85,
+    "disciplina": "Engenharia de Processos de Negócio",
+    "grupo_id": 13
+  },
+  {
+    "id": 86,
+    "disciplina": "Engenharia de Requisitos",
+    "grupo_id": 13
+  },
+  {
+    "id": 87,
+    "disciplina": "Engenharia de Software na Transformação Digital",
+    "grupo_id": 13
+  },
+  {
+    "id": 88,
+    "disciplina": "Estatística geral - Teoria e Aplicações",
+    "grupo_id": 8
+  },
+  {
+    "id": 89,
+    "disciplina": "Estatística Não-paramétrica",
+    "grupo_id": 8
+  },
+  {
+    "id": 90,
+    "disciplina": "Estratégia Antifragilidade",
+    "grupo_id": 3
+  },
+  {
+    "id": 91,
+    "disciplina": "Estratégia de Conteúdo e UX Writing",
+    "grupo_id": 12
+  },
+  {
+    "id": 92,
+    "disciplina": "Estratégia de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 93,
+    "disciplina": "Estratégia de Produto",
+    "grupo_id": 3
+  },
+  {
+    "id": 94,
+    "disciplina": "Estratégia Digital e Web Analytics",
+    "grupo_id": 3
+  },
+  {
+    "id": 95,
+    "disciplina": "Estratégia e Governança em Cibersegurança",
+    "grupo_id": 3
+  },
+  {
+    "id": 96,
+    "disciplina": "Estratégia e Governança em Inteligência Artificial",
+    "grupo_id": 7
+  },
+  {
+    "id": 97,
+    "disciplina": "Estratégias de Customer Experience",
+    "grupo_id": 3
+  },
+  {
+    "id": 98,
+    "disciplina": "Estratégias de Software para Cidades Inteligentes",
+    "grupo_id": 5
+  },
+  {
+    "id": 99,
+    "disciplina": "Estratégias para Design",
+    "grupo_id": 12
+  },
+  {
+    "id": 100,
+    "disciplina": "Estratégias para Implantação de Cidades Inteligentes e Sustentáveis",
+    "grupo_id": 3
+  },
+  {
+    "id": 101,
+    "disciplina": "Estratégias para Projetos de Arquitetura de Solução",
+    "grupo_id": 11
+  },
+  {
+    "id": 102,
+    "disciplina": "Estruturas de Dados de Saúde",
+    "grupo_id": 9
+  },
+  {
+    "id": 103,
+    "disciplina": "Ethical Hacking e Gestão de Vulnerabilidades",
+    "grupo_id": 5
+  },
+  {
+    "id": 104,
+    "disciplina": "Ferramentas de Administração de Redes",
+    "grupo_id": 5
+  },
+  {
+    "id": 105,
+    "disciplina": "Frameworks de Front End – Angular",
+    "grupo_id": 2
+  },
+  {
+    "id": 106,
+    "disciplina": "Frameworks de Front End - React",
+    "grupo_id": 2
+  },
+  {
+    "id": 107,
+    "disciplina": "Frameworks para Deep Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 108,
+    "disciplina": "Fundamentos da Gestão de Produtos Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 109,
+    "disciplina": "Fundamentos de Cidades Inteligentes e Sustentáveis",
+    "grupo_id": 3
+  },
+  {
+    "id": 110,
+    "disciplina": "Fundamentos de RPA",
+    "grupo_id": 2
+  },
+  {
+    "id": 111,
+    "disciplina": "Gerenciamento Ágil de Projetos",
+    "grupo_id": 3
+  },
+  {
+    "id": 112,
+    "disciplina": "Gerenciamento de Código e Controle de Versão",
+    "grupo_id": 13
+  },
+  {
+    "id": 113,
+    "disciplina": "Gerenciamento de Incidentes",
+    "grupo_id": 3
+  },
+  {
+    "id": 114,
+    "disciplina": "Gerenciamento de Projetos Ágil",
+    "grupo_id": 3
+  },
+  {
+    "id": 115,
+    "disciplina": "Gestão de ambientes on-premises",
+    "grupo_id": 3
+  },
+  {
+    "id": 116,
+    "disciplina": "Gestão de Conectividade",
+    "grupo_id": 5
+  },
+  {
+    "id": 117,
+    "disciplina": "Gestão de Conectividade em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 118,
+    "disciplina": "Gestão de configuração e mudanças",
+    "grupo_id": 3
+  },
+  {
+    "id": 119,
+    "disciplina": "Gestão de continuidade de Negócios",
+    "grupo_id": 3
+  },
+  {
+    "id": 120,
+    "disciplina": "Gestão de Incidentes de Segurança da Informação",
+    "grupo_id": 6
+  },
+  {
+    "id": 121,
+    "disciplina": "Gestão de Indicadores de Saúde",
+    "grupo_id": 3
+  },
+  {
+    "id": 122,
+    "disciplina": "Gestão de Indicadores e Resultados",
+    "grupo_id": 3
+  },
+  {
+    "id": 123,
+    "disciplina": "Gestão de Indicadores para Cidades Inteligentes",
+    "grupo_id": 3
+  },
+  {
+    "id": 124,
+    "disciplina": "Gestão de Infraestrutura de TI",
+    "grupo_id": 5
+  },
+  {
+    "id": 125,
+    "disciplina": "Gestão de Negócios Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 126,
+    "disciplina": "Gestão de Pessoas e Equipes",
+    "grupo_id": 3
+  },
+  {
+    "id": 127,
+    "disciplina": "Gestão de Produtos Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 128,
+    "disciplina": "Gestão de Projetos RPA",
+    "grupo_id": 3
+  },
+  {
+    "id": 129,
+    "disciplina": "Gestão de Riscos de Segurança da Informação e Infraestrutura",
+    "grupo_id": 6
+  },
+  {
+    "id": 130,
+    "disciplina": "Gestão de Segurança Aplicada em Nuvem",
+    "grupo_id": 6
+  },
+  {
+    "id": 131,
+    "disciplina": "Gestão de Serviços em TI",
+    "grupo_id": 5
+  },
+  {
+    "id": 132,
+    "disciplina": "Gestão e Compliance em Saúde",
+    "grupo_id": 3
+  },
+  {
+    "id": 133,
+    "disciplina": "Gestão e Qualidade de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 134,
+    "disciplina": "Gestão em SRE",
+    "grupo_id": 3
+  },
+  {
+    "id": 135,
+    "disciplina": "Gestão Financeira e Contratos",
+    "grupo_id": 3
+  },
+  {
+    "id": 136,
+    "disciplina": "Gestão Produtos Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 137,
+    "disciplina": "Governança de Dados",
+    "grupo_id": 3
+  },
+  {
+    "id": 138,
+    "disciplina": "Humanidades",
+    "grupo_id": 4
+  },
+  {
+    "id": 139,
+    "disciplina": "Implementação de Algoritmos de Machine Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 140,
+    "disciplina": "Inclusão Digital e Desenvolvimento Econômico",
+    "grupo_id": 3
+  },
+  {
+    "id": 141,
+    "disciplina": "Inferência Estatística",
+    "grupo_id": 8
+  },
+  {
+    "id": 142,
+    "disciplina": "Infrastructure as Code (IaC)",
+    "grupo_id": 5
+  },
+  {
+    "id": 143,
+    "disciplina": "Ingestão e Catalogação de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 144,
+    "disciplina": "Inovação em Experiência - Tecnologias e Tendências",
+    "grupo_id": 3
+  },
+  {
+    "id": 145,
+    "disciplina": "Integração de Aplicações em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 146,
+    "disciplina": "Integração e Fluxos de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 147,
+    "disciplina": "Integração e Processamento de Fluxo Contínuo de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 148,
+    "disciplina": "Inteligência Artificial e Machine Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 149,
+    "disciplina": "Inteligência e Performance Corporativa",
+    "grupo_id": 3
+  },
+  {
+    "id": 150,
+    "disciplina": "Internet das Coisas: arquitetura, tecnologias e aplicações",
+    "grupo_id": 5
+  },
+  {
+    "id": 151,
+    "disciplina": "Internet das Coisas: arquitetura, tecnologias e aplicações",
+    "grupo_id": 11
+  },
+  {
+    "id": 152,
+    "disciplina": "Introdução à Linguagem Python",
+    "grupo_id": 2
+  },
+  {
+    "id": 153,
+    "disciplina": "Introdução à Linguagem R",
+    "grupo_id": 2
+  },
+  {
+    "id": 154,
+    "disciplina": "IoT: Infraestrutura, Segurança e Monitoramento",
+    "grupo_id": 5
+  },
+  {
+    "id": 155,
+    "disciplina": "Lei Geral de Proteção de Dados",
+    "grupo_id": 3
+  },
+  {
+    "id": 156,
+    "disciplina": "Machine Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 157,
+    "disciplina": "Marketing de Produtos Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 158,
+    "disciplina": "Medição e Métricas de Software",
+    "grupo_id": 13
+  },
+  {
+    "id": 159,
+    "disciplina": "Mobile Marketing e Analytics",
+    "grupo_id": 10
+  },
+  {
+    "id": 160,
+    "disciplina": "Modelagem de Dados para Data Warehouse",
+    "grupo_id": 1
+  },
+  {
+    "id": 161,
+    "disciplina": "Modelagem de Informação da Cidade",
+    "grupo_id": 3
+  },
+  {
+    "id": 162,
+    "disciplina": "Modelagem e Organização de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 163,
+    "disciplina": "Modelagem e Prep. Dados para Aprendizado de Máquina",
+    "grupo_id": 7
+  },
+  {
+    "id": 164,
+    "disciplina": "Modelagem e Preparação de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 165,
+    "disciplina": "Modelos Estatísticos",
+    "grupo_id": 8
+  },
+  {
+    "id": 166,
+    "disciplina": "Modelos Jurídicos para Inovação em Cidades Inteligentes",
+    "grupo_id": 3
+  },
+  {
+    "id": 167,
+    "disciplina": "Modelos Lineares Generalizados",
+    "grupo_id": 8
+  },
+  {
+    "id": 168,
+    "disciplina": "Monitoramento e Observalidade",
+    "grupo_id": 5
+  },
+  {
+    "id": 169,
+    "disciplina": "Monitoramento e Operação de Ambientes em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 170,
+    "disciplina": "Network Security",
+    "grupo_id": 5
+  },
+  {
+    "id": 171,
+    "disciplina": "Operação e Monitoramento",
+    "grupo_id": 5
+  },
+  {
+    "id": 172,
+    "disciplina": "Otimização, Monitoramento e Operação em Bancos de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 173,
+    "disciplina": "Padrões Web - HTML, CSS e JavaScript",
+    "grupo_id": 2
+  },
+  {
+    "id": 174,
+    "disciplina": "Planejamento de Tecnologia para Cidades Inteligentes e Sustentáveis",
+    "grupo_id": 3
+  },
+  {
+    "id": 175,
+    "disciplina": "Plataforma de Software como Serviço – SaaS",
+    "grupo_id": 11
+  },
+  {
+    "id": 176,
+    "disciplina": "Plataforma Ethereum",
+    "grupo_id": 2
+  },
+  {
+    "id": 177,
+    "disciplina": "Plataforma Hyperledger",
+    "grupo_id": 2
+  },
+  {
+    "id": 178,
+    "disciplina": "Plataforma Node.js",
+    "grupo_id": 2
+  },
+  {
+    "id": 179,
+    "disciplina": "Plataformas de Back End – Python",
+    "grupo_id": 2
+  },
+  {
+    "id": 180,
+    "disciplina": "Práticas de Implementação e Evolução de Software",
+    "grupo_id": 13
+  },
+  {
+    "id": 181,
+    "disciplina": "Preparação e Ingestão de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 182,
+    "disciplina": "Preparação e Integração de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 183,
+    "disciplina": "Preparação, Orquestração e Fluxos de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 184,
+    "disciplina": "Princípios e Práticas SRE",
+    "grupo_id": 5
+  },
+  {
+    "id": 185,
+    "disciplina": "Privacidade e Proteção de Dados",
+    "grupo_id": 5
+  },
+  {
+    "id": 186,
+    "disciplina": "Probabilidade",
+    "grupo_id": 8
+  },
+  {
+    "id": 187,
+    "disciplina": "Processamento de Fluxos Discretos e Contínuos de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 188,
+    "disciplina": "Processamento de Linguagem Natural",
+    "grupo_id": 7
+  },
+  {
+    "id": 189,
+    "disciplina": "Processamento Paralelo e Distribuído de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 190,
+    "disciplina": "Product Design, UX e Product Discovery",
+    "grupo_id": 12
+  },
+  {
+    "id": 191,
+    "disciplina": "Programação de Sistemas de Tempo Real",
+    "grupo_id": 2
+  },
+  {
+    "id": 192,
+    "disciplina": "Programação para Ciência de Dados",
+    "grupo_id": 2
+  },
+  {
+    "id": 193,
+    "disciplina": "Programação Web com Node.JS",
+    "grupo_id": 2
+  },
+  {
+    "id": 194,
+    "disciplina": "Projeto Integrado de Produtos Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 195,
+    "disciplina": "Projeto Integrado de UX",
+    "grupo_id": 3
+  },
+  {
+    "id": 196,
+    "disciplina": "Projeto Integrado em Engenharia de Software",
+    "grupo_id": 13
+  },
+  {
+    "id": 197,
+    "disciplina": "Projeto, Prototipagem e Testes",
+    "grupo_id": 2
+  },
+  {
+    "id": 198,
+    "disciplina": "Projetos Aplicados em Blockchain",
+    "grupo_id": 3
+  },
+  {
+    "id": 199,
+    "disciplina": "Projetos de infraestrutura de redes",
+    "grupo_id": 5
+  },
+  {
+    "id": 200,
+    "disciplina": "Projetos Integrados de Analytics",
+    "grupo_id": 3
+  },
+  {
+    "id": 201,
+    "disciplina": "Projetos Integrados de Aplicações",
+    "grupo_id": 3
+  },
+  {
+    "id": 202,
+    "disciplina": "Provisionamento de Infraestrutura e Pipelines",
+    "grupo_id": 5
+  },
+  {
+    "id": 203,
+    "disciplina": "Python para Ciência de Dados",
+    "grupo_id": 2
+  },
+  {
+    "id": 204,
+    "disciplina": "Python para Engenharia de Dados",
+    "grupo_id": 2
+  },
+  {
+    "id": 205,
+    "disciplina": "Qualidade de Software Para Web",
+    "grupo_id": 13
+  },
+  {
+    "id": 206,
+    "disciplina": "Recuperação da informação na Web e Redes Sociais",
+    "grupo_id": 7
+  },
+  {
+    "id": 207,
+    "disciplina": "Redes de Sensores Inteligentes",
+    "grupo_id": 5
+  },
+  {
+    "id": 208,
+    "disciplina": "Redes Neurais e Deep Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 209,
+    "disciplina": "Redes Neurais Recorrentes e Generativas",
+    "grupo_id": 7
+  },
+  {
+    "id": 210,
+    "disciplina": "Regressão Linear Simples",
+    "grupo_id": 8
+  },
+  {
+    "id": 211,
+    "disciplina": "Regressão Múltipla e Logística",
+    "grupo_id": 8
+  },
+  {
+    "id": 212,
+    "disciplina": "Requisitos Ágeis e Arquitetura de Software",
+    "grupo_id": 11
+  },
+  {
+    "id": 213,
+    "disciplina": "Resiliência em Cibersegurança",
+    "grupo_id": 5
+  },
+  {
+    "id": 214,
+    "disciplina": "Segurança de Aplicações Distribuídas",
+    "grupo_id": 6
+  },
+  {
+    "id": 215,
+    "disciplina": "Segurança de Infraestrutura",
+    "grupo_id": 6
+  },
+  {
+    "id": 216,
+    "disciplina": "Segurança e Gestão da Identidade Digital",
+    "grupo_id": 6
+  },
+  {
+    "id": 217,
+    "disciplina": "Segurança em Armazenamento, Tratamento e Consumo de Dados",
+    "grupo_id": 1
+  },
+  {
+    "id": 218,
+    "disciplina": "Segurança em Cloud-Computing",
+    "grupo_id": 6
+  },
+  {
+    "id": 219,
+    "disciplina": "Sensores, Atuadores e Interfaces de Comunicação",
+    "grupo_id": 5
+  },
+  {
+    "id": 220,
+    "disciplina": "Séries temporais",
+    "grupo_id": 8
+  },
+  {
+    "id": 221,
+    "disciplina": "Service Level Objectives (SLO)",
+    "grupo_id": 3
+  },
+  {
+    "id": 222,
+    "disciplina": "Servidores Web e Computação em Nuvem",
+    "grupo_id": 5
+  },
+  {
+    "id": 223,
+    "disciplina": "Sistemas de Informações Geográficas",
+    "grupo_id": 5
+  },
+  {
+    "id": 224,
+    "disciplina": "Sistemas de Recomendação",
+    "grupo_id": 7
+  },
+  {
+    "id": 225,
+    "disciplina": "Site Reliability Engineering (SRE)",
+    "grupo_id": 5
+  },
+  {
+    "id": 226,
+    "disciplina": "Smart Contracts",
+    "grupo_id": 2
+  },
+  {
+    "id": 227,
+    "disciplina": "Técnicas Avançadas de CSS",
+    "grupo_id": 2
+  },
+  {
+    "id": 228,
+    "disciplina": "Tecnologias para Cidades Inteligentes",
+    "grupo_id": 5
+  },
+  {
+    "id": 229,
+    "disciplina": "Testes Sistemáticos de Software",
+    "grupo_id": 13
+  },
+  {
+    "id": 230,
+    "disciplina": "Tópicos Especiais em Machine Learning",
+    "grupo_id": 7
+  },
+  {
+    "id": 231,
+    "disciplina": "Transformações Digitais",
+    "grupo_id": 3
+  },
+  {
+    "id": 232,
+    "disciplina": "Usabilidade e Design Inclusivo",
+    "grupo_id": 12
+  },
+  {
+    "id": 233,
+    "disciplina": "UX Metrics e Avaliações",
+    "grupo_id": 12
+  },
+  {
+    "id": 234,
+    "disciplina": "UX Research",
+    "grupo_id": 12
+  },
+  {
+    "id": 235,
+    "disciplina": "Virtualização",
+    "grupo_id": 5
+  },
+  {
+    "id": 236,
+    "disciplina": "Virtualização e Armazenamento de Dados",
+    "grupo_id": 5
+  },
+  {
+    "id": 237,
+    "disciplina": "Visualização de Dados",
+    "grupo_id": 10
+  },
+  {
+    "id": 238,
+    "disciplina": "Aplicações dos SIGs em Estudos Ambientais",
+    "grupo_id": 14
+  },
+  {
+    "id": 239,
+    "disciplina": "Aplicações dos SIGs em Estudos Socioespaciais",
+    "grupo_id": 14
+  },
+  {
+    "id": 240,
+    "disciplina": "Aplicações dos SIGs no Planejamento Urbano",
+    "grupo_id": 14
+  },
+  {
+    "id": 241,
+    "disciplina": "Bancos de Dados Geográficos",
+    "grupo_id": 14
+  },
+  {
+    "id": 242,
+    "disciplina": "Introdução ao Geoprocessamento",
+    "grupo_id": 14
+  },
+  {
+    "id": 243,
+    "disciplina": "Introdução ao uso de Drones",
+    "grupo_id": 14
+  },
+  {
+    "id": 244,
+    "disciplina": "Geo Marketing",
+    "grupo_id": 14
+  },
+  {
+    "id": 245,
+    "disciplina": "Métodos Quantitativos para Análise Espacial",
+    "grupo_id": 14
+  },
+  {
+    "id": 246,
+    "disciplina": "Redes em Geoprocessamento",
+    "grupo_id": 14
+  },
+  {
+    "id": 247,
+    "disciplina": "Sensoriamento Remoto",
+    "grupo_id": 14
+  },
+  {
+    "id": 248,
+    "disciplina": "WebGIS",
+    "grupo_id": 14
+  },
+  {
+    "id": 249,
+    "disciplina": "Estudos de Caso em Geoprocessamento",
+    "grupo_id": 14
+  },
+  {
+    "id": 251,
+    "disciplina": "Cartografia Digital",
+    "grupo_id": 14
+  },
+  {
+    "id": 252,
+    "disciplina": "Métodos Quantitativos em Geografia",
+    "grupo_id": 14
+  },
+  {
+    "id": 253,
+    "disciplina": "Geoanalytics",
+    "grupo_id": 14
+  },
+  {
+    "id": 254,
+    "disciplina": "Metodologia de Pesquisa em Geografia",
+    "grupo_id": 14
+  },
+  {
+    "id": 255,
+    "disciplina": "Georeferenciamento de Imóveis Rurais",
+    "grupo_id": 14
+  },
+  {
+    "id": 256,
+    "disciplina": "Cadastro Territorial Urbano",
+    "grupo_id": 14
+  },
+  {
+    "id": 257,
+    "disciplina": "Métodos de Análise Espacial",
+    "grupo_id": 14
+  },
+  {
+    "id": 258,
+    "disciplina": "Geoprocessamento e Gestão Ambiental",
+    "grupo_id": 14
+  },
+  {
+    "id": 259,
+    "disciplina": "Processamento Digital de Imagens",
+    "grupo_id": 14
+  },
+  {
+    "id": 260,
+    "disciplina": "Geotecnologias para Aerolevantamento",
+    "grupo_id": 14
+  },
+  {
+    "id": 261,
+    "disciplina": "Introdução ao Desenvolvimento Web",
+    "grupo_id": 14
+  },
+  {
+    "id": 262,
+    "disciplina": "Métodos Quantitativos para Geoprocessamento",
+    "grupo_id": 14
+  },
+  {
+    "id": 263,
+    "disciplina": "Modelagem de Dados Geográficos",
+    "grupo_id": 14
+  },
+  {
+    "id": 264,
+    "disciplina": "Desenvolvimento de WebGIS",
+    "grupo_id": 14
+  },
+  {
+    "id": 265,
+    "disciplina": "Geovisualização e Usabilidade",
+    "grupo_id": 14
+  },
+  {
+    "id": 266,
+    "disciplina": "Desenvolvimento de Geoservicos Web",
+    "grupo_id": 14
+  },
+  {
+    "id": 267,
+    "disciplina": "Gestão de Sistemas Empresariais",
+    "grupo_id": 3
+  },
+  {
+    "id": 268,
+    "disciplina": "Gestão de Riscos e Continuidade de Negócios",
+    "grupo_id": 3
+  },
+  {
+    "id": 269,
+    "disciplina": "Governança de TI",
+    "grupo_id": 3
+  },
+  {
+    "id": 270,
+    "disciplina": "Compliance e Auditoria em TI",
+    "grupo_id": 3
+  },
+  {
+    "id": 271,
+    "disciplina": "Gestão de Desempenho de TI",
+    "grupo_id": 3
+  },
+  {
+    "id": 272,
+    "disciplina": "Planejamento Estratégico e Portfolios de TI",
+    "grupo_id": 3
+  },
+  {
+    "id": 273,
+    "disciplina": "Gestão de Processos de Negócios",
+    "grupo_id": 3
+  }
+]

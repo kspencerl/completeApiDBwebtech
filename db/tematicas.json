@@ -1,0 +1,58 @@
+{
+    "AD": [
+        "Aplicações Distribuídas",
+        "#3E519A"
+    ],
+    "AU": [
+        "Automação",
+        "#BDBC79"
+    ],
+    "BD": [
+        "Bancos de Dados",
+        "#A3BF88"
+    ],
+    "CR": [
+        "Cloud e Redes",
+        "#8EBC95"
+    ],
+    "DA": [
+        "Data Analytics",
+        "#549374"
+    ],
+    "DS": [
+        "Desenvolvimento de Software",
+        "#629693"
+    ],
+    "ED": [
+        "Estratégia de Dados",
+        "#325E8A"
+    ],
+    "GA": [
+        "Games",
+        "#87B9BF"
+    ],
+    "MP": [
+        "Metodologias e Processos",
+        "#2F3C7A"
+    ],
+    "ND": [
+        "Negócios Digitais",
+        "#6D7AB5"
+    ],
+    "PG": [
+        "Planejamento e Gestão",
+        "#AB9E65"
+    ],
+    "SA": [
+        "Saúde",
+        "#55407D"
+    ],
+    "SI": [
+        "Segurança",
+        "#926AA3"
+    ],
+    "UD": [
+        "UX e Design ",
+        "#BF84B2"
+    ]
+}
